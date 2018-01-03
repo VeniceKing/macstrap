@@ -3,6 +3,7 @@
 *.LSOverride
 Thumbs.db
 .bundle
+.stuff
 
 ### VisualStudioCode
 .vscode/*
